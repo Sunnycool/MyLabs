@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="MySQL - javaee@localhost" uuid="18659c56-9d04-4468-bc10-8ef8355bc123">
+      <secret-storage>memory</secret-storage>
+      <user-name>root</user-name>
+      <schema-pattern>javaee.*</schema-pattern>
+      <default-schemas>javaee.*</default-schemas>
+    </data-source>
+  </component>
+</project>
